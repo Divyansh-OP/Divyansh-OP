@@ -1,23 +1,5 @@
-<!--Copyright 2019 Arindam Hazra aka Xynox <https://xynox.codes/>
-
-Licensed under the Apache License, Version 2.0(the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-    See the License for the specific language governing permissions and
-limitations under the License.
--->
 
 <div align = "center">
-
-<a href = "https://xynox.codes/">
-<img src = "https://i.imgur.com/qoCRbhB.png" />
-</a>
 
 
 ### :bust_in_silhouette: About
@@ -38,7 +20,14 @@ I'm Arindam Hazra from India, you can also call me Xynox. I'm a student as well 
 <img width="35px" src="https://cdn.discordapp.com/emojis/754345273328664676.gif?v=1" />
 
 <hr>
-
+    
+### My Projects 
+<a href="https://top.gg/bot/846660939570872350">
+  <img src="https://top.gg/api/widget/846660939570872350.svg" alt="The Minister" />
+  </a>
+    
+    
+<hr>
 ### 🔖 My Statistics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=XynoxTheDev&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=XynoxTheDev&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
