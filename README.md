@@ -28,11 +28,7 @@ The Developer Making smiles on unknown faces usin the Code....
     
     
 <!---hr>
-### 🔖 My Statistics
-![](https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-OP&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=Divyansh-OP&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
-[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)--->
+### 🔖 My Statistics--->
     
 ### My Statics
 <hr>
