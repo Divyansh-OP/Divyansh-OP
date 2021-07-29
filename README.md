@@ -28,13 +28,13 @@ The Developer Making smiles on unknown faces usin the Code....
     
     
     
-r>
+
 ### 🔖 My Statistics
     
-### My Statics
+
 <hr>
-    <a href="https://discord.com/users/259008949427109891">
-    <img src="https://lanyard-profile-readme.vercel.app/api/259008949427109891">
+    <a href="https://discord.com/users/743856962290057308">
+    <img src="https://lanyard-profile-readme.vercel.app/api/743856962290057308">
     </a>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-OP&show_icons=true&hide_border=true&theme=dark&count_private=true">
