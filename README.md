@@ -27,13 +27,26 @@ The Developer Making smiles on unknown faces usin the Code....
   </a>
     
     
-<hr>
+<!---hr>
 ### 🔖 My Statistics
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Divyansh-OP&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=Divyansh-OP&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark)
-[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)
-
+[![](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&cover_image=true&theme=novatorem)](https://spotify-github-profile.vercel.app/api/view?uid=zrei8evwinfjy9d27fjon68hh&redirect=true)--->
+    
+### My Statics
+<hr>
+    <a href="https://discord.com/users/259008949427109891">
+    <img src="https://lanyard-profile-readme.vercel.app/api/259008949427109891">
+    </a>
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-OP&show_icons=true&hide_border=true&theme=dark&count_private=true">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-OP&layout=compact&langs_count=8&theme=dark">
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Divyansh-OP&layout=compact">
+    
+</div>
 
     
 </div>
