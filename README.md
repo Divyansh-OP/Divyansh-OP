@@ -33,9 +33,6 @@ The Developer Making smiles on unknown faces usin the Code....
     
 
 <hr>
-    <a href="https://discord.com/users/743856962290057308">
-    <img src="https://lanyard-profile-readme.vercel.app/api/743856962290057308">
-    </a>
     <br>
     <img src="https://github-readme-stats.vercel.app/api?username=Divyansh-OP&show_icons=true&hide_border=true&theme=dark&count_private=true">
     <br>
