@@ -41,7 +41,6 @@ The Developer Making smiles on unknown faces usin the Code....
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Divyansh-OP&layout=compact&langs_count=8&theme=dark">
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Divyansh-OP&layout=compact">
     
 </div>
 
